@@ -1,6 +1,7 @@
 # The Stuffs demonstrates the Kerenalized SVM
 * The Kernalized SVM is implemented from scrath.
 * Two kernels Polynomial and RBF are implemented from scratch
+* Note: Please Note that the alpha are selected as weights (Just as an example).
 
 ## Sample outputs is given below for XOR problem
 
