@@ -7,3 +7,5 @@
 - For Polynomial of degree 2 (Quadratic Kernel) the output is:
  ![alt tag]( https://github.com/Bismillah-Jan/Kernalized-SVM/blob/master/poly.png?raw=true)
 
+- For RBF kernel the output is:
+ ![alt tag](https://github.com/Bismillah-Jan/Kernalized-SVM/blob/master/rbf.png?raw=true)
