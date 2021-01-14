@@ -3,7 +3,7 @@
 * Two kernels Polynomial and RBF are implemented from scratch
 * Note: Please Note that the alpha are selected as weights (Just as an example).
 ## How to Run the program
- - Download the python files in a diectory and run only the "runner.py"
+ - Download the python files in a directory and run only the "runner.py"
 
 ## Sample outputs is given below for XOR problem
 
