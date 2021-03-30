@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 24 11:22:32 2016
 Implementation of the soft kernelized SVM
-@author: afsar
+@author: Bismillah Jan
 """
 """
 This file contains a stub implementation of the soft kernelized SVM. 
