@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 24 11:27:21 2016
 Implementation of different kernels
-@author: afsar
+@author: Bismillah Jan
 """
 """
 This file contains implementations of different kernel functions.
