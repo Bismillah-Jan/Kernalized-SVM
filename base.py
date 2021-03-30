@@ -1,11 +1,8 @@
 """
 Created on Wed Feb 03 22:01:45 2016
-CIS 621 Machine Learning
-Assignment 2
-@author: <your name here>
-@author-email: <your piazza email here>
-stub developed by Dr. Fayyaz Minhas, DCIS, PIEAS, PAKISTAN
-email: afsar at pieas dot edu dot pk
+Machine Learning
+@author: Bismillah Jan
+stub developed by Dr. Fayyaz Minhas
 """
 import numpy as np
 class linearClassifier:
