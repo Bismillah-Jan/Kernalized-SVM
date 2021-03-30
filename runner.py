@@ -2,9 +2,9 @@
 """
 Created on Wed Feb 24 11:24:56 2016
 Script for running various classifiers
-@author: afsar
+@author: Bismillah Jan
 This will run your code, you can make modifications to it as required 
-for different components of the assignment as follows.
+for different components of the task as follows.
 """
 from softKSVM import softKSVM
 from kernels import kpoly,rbf
