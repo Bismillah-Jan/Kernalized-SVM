@@ -1,7 +1,6 @@
 # This work demonstrates the Kernalized SVM
-* The Kernalized SVM is implemented from scratch.
-* Two kernels, the Polynomial and the RBF, are also implemented from scratch
-* Mind, the alpha are selected as weights (Just as an example).
+* The Kernalized SVM is implemented from scratch along with two kernels, the Polynomial and the Radial Basis Function (RBF).
+* Mind, alpha values are selected as weights (Just as an example).
 ## How to Run the program
  - Download the python files in a directory and run only the "runner.py"
 
